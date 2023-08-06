@@ -1,0 +1,5 @@
+
+    <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+        <polygon points="150,0 300,200 0,200" fill="red" />
+        <text x="150" y="100" font-size="24" fill="blue" text-anchor="middle" dy=".3em">GHY</text>
+    </svg>
